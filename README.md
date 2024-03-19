@@ -1,2 +1,2 @@
 # Num-Bingo
-<a href="https://number-guess-mini-proj.web.app/">link text</a>
+<a href="https://number-guess-mini-proj.web.app/">Live-Demo</a>
